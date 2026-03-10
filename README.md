@@ -1,2 +1,2 @@
-# -Gerenciamento-De-Configura-o
+# -Gerenciamento-De-Configuração
 PROJETO DE SOFTWARE 2026
